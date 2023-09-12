@@ -2068,7 +2068,7 @@ Akash Abraham
 -[Jesus Sanchez](https://github.com/Jesus1Sanchez)
 
 - [Hiral Soni](https://github.com/hiralsonip)
-
+- [Mark Ferguson] (https://github/kaizenpool)
 - [medzo-kali](https://github.com/medzo-kali)
 
 - [Nicholas Garbutt] (https://github.com/Nicholas-Garbutt)
@@ -2101,7 +2101,7 @@ Akash Abraham
 - [Vinicius Lopes] (https://github.com/frenziedcode)
 - [tong822218](https://github.com/tong822218)
 - [Sufiyan Malek](https://github.com/sufimalek)
-- [Sandeep Kumar Sharma](https://github.com/amrahs02)
+ndeep Kumar Sharma](https://github.com/amrahs02)
 - [Aishwarya Sahu](https://github.com/ashesash)
 - [Joey Santos] (https://github.com/Santeezy7).
 - [Affen_Herzog](https://github.com/AffenHerzog)
